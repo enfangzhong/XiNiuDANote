@@ -1,3 +1,7 @@
+---
+typora-root-url: images
+---
+
 # Python关键知识点
 
 ------
@@ -81,7 +85,7 @@ dir(pd)
 
 
 
-![1556310851402](C:\Users\Enfang\AppData\Local\Temp\1556310851402.png)
+![2.python运算](/2.python运算.png)
 
 
 
@@ -96,4 +100,5 @@ dir(pd)
 
 
 
-![1556311125858](C:\Users\Enfang\AppData\Local\Temp\1556311125858.png)
+![3.变量](/3.变量.png)
+
