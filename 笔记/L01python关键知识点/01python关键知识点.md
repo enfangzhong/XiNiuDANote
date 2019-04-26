@@ -56,6 +56,8 @@ C++/Java/perl/shell/scala/ruby/PHP，在数据科学领域top2的编程语言，
 
 
 
+python基本数据类型、变量、运算、表达式
+
 ### 1.Python寻求帮助
 
 - help
@@ -73,6 +75,25 @@ dir(pd)
 
 
 
+### 2.python运算
+
+- +、-、*、/、**
 
 
 
+![1556310851402](C:\Users\Enfang\AppData\Local\Temp\1556310851402.png)
+
+
+
+### 3.变量
+
+基本数据类型：
+
+- int整型
+- float浮点型
+- str字符串型
+- bool布尔型
+
+
+
+![1556311125858](C:\Users\Enfang\AppData\Local\Temp\1556311125858.png)
