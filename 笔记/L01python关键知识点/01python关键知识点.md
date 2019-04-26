@@ -1,5 +1,5 @@
 ---
-typora-root-url: images
+typora-copy-images-to: images
 ---
 
 # Python关键知识点
@@ -83,9 +83,7 @@ dir(pd)
 
 - +、-、*、/、**
 
-
-
-![2.python运算](/2.python运算.png)
+![1556312055136](.\images\1556312055136.png)
 
 
 
@@ -100,5 +98,5 @@ dir(pd)
 
 
 
-![3.变量](/3.变量.png)
+
 
